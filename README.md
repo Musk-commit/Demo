@@ -1,2 +1,2 @@
 # Demo
-thsi is demo project
+thsi is demo project.
